@@ -1,0 +1,49 @@
+/*Start Button, Launcher, Chatbubble*/
+.vfrc-launcher {
+    border-radius: 3px;
+    border:1 solid #d2d6dc;
+}
+/*Header text ganz ganz oben*/
+.vfrc-header {
+  font-family: Eurostile, sans-serif;
+  text-transform: uppercase;
+  color: #111111;
+} 
+/*Titel im Chatbot, ganz am Anfang*/
+.vfrc-assistant-info--title {
+  font-family: Eurostile, sans-serif;
+  text-transform: uppercase;
+  color: #111111;
+}
+/*Beschreibung im Chatbot, ganz am Anfang*/
+.vfrc-assistant-info--description {
+  font-family: Bookmark, sans-serif;
+  color: #111111;
+}
+/*Nachrichten User+Chatbot*/
+.vfrc-message {
+  font-family: Bookmark, sans-serif;
+}
+/*Sprache Buttons asl Beispiel, Buttons im Chat*/
+.vfrc-button {
+  font-family: Eurostile, sans-serif;
+  color: #6d8058;
+}
+/*Nur Buttons von Karussel, beispiel Uppercase*/
+.vfrc-carousel--button {
+  font-family: Eurostile, sans-serif;
+  color: #6d8058;
+  background: #e8db7d;
+}
+/*Nur Buttons von Karussel, beispiel Uppercase */
+.vfrc-system-response .vfrc-button {
+  font-family: Eurostile, sans-serif;
+  color: #111111;
+  background: #e8db7d;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+/*Links*/
+a {
+  color: #6d8058;
+}
